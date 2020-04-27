@@ -1,5 +1,5 @@
 # Genetic Algorithm
-**Random Search vs Genetic Algorithm**
+**Genetic Algorithm vs Random Search**
 
 Author: Michael Trossbach
 
